@@ -1,0 +1,17 @@
+role: participant
+expertise:
+  - title: Software Development
+    description: >
+      Managing multiple open-source projects with regular updates and automated
+      error detection. Packaging for internal and external users.
+  - title: Digital Infrastructure
+    description: >
+      Development of sophisticated digital infrastructure with a wide variety of
+      clients on different devices, programming languages, and networks. Key
+      focus on reliability, automated fault detection, continuous integration
+      and hardware control.
+  - title: Digital Twins
+    description: >
+      Key participant and task leader in several projects on digital twins, in
+      particular the PoroTwin and PoroTwin 2 projects, as well as EDINAF and
+      dTHOR.

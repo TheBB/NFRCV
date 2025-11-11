@@ -1,0 +1,298 @@
+personalia:
+  name: Eivind Fonn
+  dob: 02.11.1984
+  sex: Male
+  nationality: Norwegian
+  orcid: 0009-0008-6385-2469
+  link: https://www.sintef.no/en/all-employees/employee/eivind.fonn
+
+education:
+  - date: 2013
+    degree: PhD
+    field: Computational Sciences
+    issuer: ETH Zürich
+    location: Switzerland
+  - date: 2009
+    degree: Master of Technology
+    field: Industrial Mathematics
+    issuer: NTNU
+    location: Trondheim, Norway
+
+positions:
+  current:
+    date: [2014, null]
+    title: Research Scientist
+    company: SINTEF Digital
+    department: Dept. of Mathematics and Cybernetics
+    location: Norway
+  previous:
+    - date: 2016
+      title: Associate professor
+      company: NTNU
+      department: Dept. of Mathematical Sciences
+      location: Trondheim, Norway
+
+awards:
+  - date: 2009
+    name: Winne and Ragnar Mathisen's Award
+    details: best student of technology or architecture at NTNU
+  - date: 2009
+    name: Norwegian Computing Center's Award
+    details: best master thesis in mathematics or ICT at NTNU
+  - date: 2009
+    name: The Stubban Award
+    details: most promising master candidate in mathematics at NTNU
+  - date: 2004, 2007
+    name: National Record holder
+    details: Rubik's Cube speedsolving
+
+mobility:
+  - date: 2017
+    title: Research collaboration
+    details: Dept. of Mechanical Engineering, Eindhoven University of Technology, Prof. E. H. v. Brummelen
+
+projects:
+  - date: [2022, null]
+    title: PoroTwin 2
+    description: Flow in Porous Media Matters
+    role: participant
+    funder: Wintershall DEA
+    budget: null
+  - date: [2022, 2025]
+    title: EDINAF
+    description: European Digital Naval Foundation
+    role: task-leader
+    funder: EDF
+    budget: 29MEUR
+  - date: [2022, 2025]
+    title: dTHOR
+    description: Ship Structural Health Monitoring
+    role: task-leader
+    funder: EDF
+    budget: 14.5MEUR
+  - date: [2021, 2022]
+    title: Porotwin
+    description: Flow in Porous Media Matters
+    role: participant
+    funder: Wintershall DEA
+    budget: 2.5MNOK
+  - date: [2021, null]
+    title: FME Northwind
+    description: Norwegian Research Centre on Wind Energy
+    role: participant
+    funder: RCN
+    budget: 120MNOK
+  - date: [2020, 2024]
+    title: RaPiD
+    description: Reciprocal Physics and Data-driven Models
+    role: participant
+    funder: RCN
+    budget: 8MNOK
+  - date: [2019, 2020]
+    title: COSMO
+    description: Combined Opitimization and Scheduling for Marine Operations
+    role: participant
+    funder: Equinor
+  - date: [2019, 2020]
+    title: OpenFrac
+    description: Open Simulation for Fracture Propagation
+    role: participant
+    funder: Equinor
+  - date: 2018
+    title: OPWIND
+    description: Operational Control for Wind Power Plants
+    role: participant
+    funder: RCN
+    budget: 12MNOK
+  - date: 2017
+    title: E3WM
+    role: participant
+  - date: 2016
+    title: Living Lab
+    role: participant
+  - date: 2016
+    title: eSushi
+    role: participant
+    funder: RCN
+    budget: 9.4MNOK
+  - date: [2015, 2016]
+    title: HF-PFC
+    description: Hydraulic Fracture Phase Field Code
+    role: participant
+  - date: 2014
+    title: FFG
+    description: Fracture, Flow and Geomechanics
+    role: participant
+  - date: 2014
+    title: LS-TES
+    description: Large-Scale Thermal Energy Storage
+    role: participant
+  - date: 2014
+    title: FSI-WT
+    description: Fluid-Structure Interaction for Wind Turbines
+    role: participant
+    funder: RCN
+    budget: 20MNOK
+
+supervision:
+  - date: 2025
+    number: 1
+    type: Summer student
+    location: Co-supervisor at Dept. of Math. and Cyb., SINTEF, Norway
+  - date: 2024
+    number: 1
+    type: Summer student
+    location: Co-supervisor at Dept. of Math. and Cyb., SINTEF, Norway
+  - date: 2023
+    number: 1
+    type: Summer student
+    location: Co-supervisor at Dept. of Math. and Cyb., SINTEF, Norway
+  - date: 2022
+    number: 1
+    type: Summer student
+    location: Co-supervisor at Dept. of Math. and Cyb., SINTEF, Norway
+  - date: 2022
+    number: 1
+    type: Master's student
+    location: Co-supervisor at Dept. of Math. Sci., NTNU, Norway
+  - date: 2022
+    number: 2
+    type: Summer student
+    location: Co-supervisor at Dept. of Math. and Cyb., SINTEF, Norway
+  - date: [2018, 2023]
+    number: 1
+    type: PhD student
+    location: Co-supervisor at Dept. of Math. Sci., NTNU, Norway
+
+software:
+  - date: [2024, null]
+    name: AROMA
+    role: Architect
+    description: Universal generation of reduced basis models with support for hybrid modeling
+    link: https://github.com/TheBB/Aromatic
+  - date: [2022, null]
+    name: PoroTwin 2
+    role: Architect
+    description: Digital infrastructure for multi-component remote lab, digital twin of the PoroTwin 2 project
+  - date: [2022, null]
+    name: Gold
+    role: Architect
+    description: Programmable configuration language for escaping the "YAML curse"
+    link: https://github.com/TheBB/Gold
+  - date: [2020, null]
+    name: Geomaker
+    role: Architect
+    description: Map-based graphical interface for generating high-fidelity terrain models of locations in Norway, with accompanying satellite image mapping
+    link: https://github.com/SINTEF/Geomaker
+  - date: [2019, null]
+    name: Cosmo
+    role: Frontend manager
+    description: Optimization tool for the orchestration of ships during the installation of offshore wind parks
+    link: https://cosmo.northwindresearch.no/
+  - date: [2017, null]
+    name: SISO
+    role: Architect
+    description: Universal file format converter for numerical simulation results
+    link: https://github.com/TheBB/SISO
+  - date: [2016, null]
+    name: Splipy
+    role: Maintainer
+    description: '"Splines in Python" is a NURBS library for the creation and manipulation of 3D geometries'
+    link: https://github.com/SINTEF/Splipy
+  - date: [2015, null]
+    name: Grevling
+    role: Architect
+    description: Highly configurable batch runner for parametrized code execution, output interpretation, accumulation and interpretation
+    link: https://github.com/TheBB/Grevling
+
+teaching:
+  - date: 2017
+    course: Practical Machine Learning
+    location: Geilo Winter School
+  - date: 2016
+    course: Introduction to Supercomputing
+    location: Dept. of Mathematical Sciences, NTNU, Norway
+
+responsibilities:
+  - date: [2008, 2009]
+    role: Lead organizer
+    description: Norwegian Rubik's Cube Speedsolving Championship
+  - date: [2007, 2009]
+    role: Problem author
+    description: Norwegian Mathematical Olympiad
+  - date: 2006
+    role: Organizer
+    description: Conference for Mathematics Students in Norway
+
+collaborations:
+  - institution: Eindhoven University of Technology
+    topic: Reduced Order Methods, Hybrid Modelling
+
+dissemination:
+  - date: 2025
+    title: Hybrid Real-Time Structural ROM of the RV Gunnerus
+    venue: DTE-AICOMAS
+  - date: 2022
+    title: Interpolated Methods for Non-Intrusive Affinization of Reduced Basis Methods
+    venue: ECCM
+  - date: 2020
+    title: Fast Divergence-Conforming Reduced Basis Methods for Stationary and Transient Flow Problems
+    venue: EERA Deepwind
+  - date: 2020
+    title: Splipy - Spline Modelling in Python
+    venue: EERA Deepwind
+  - date: 2018
+    title: Fast Divergence-Conforming Reduced Basis Methods for Steady Navier-Stokes Flow
+    venue: ECCM
+  - date: 2018
+    title: Fast Divergence-Conforming Reduced Basis Methods for Steady Navier-Stokes Flow
+    venue: IGAA
+  - date: 2018
+    title: Fast Divergence-Conforming Reduced Order Models for Flow
+    venue: EERA Deepwind
+  - date: 2017
+    title: Spline-based Compatible Reduced Basis Methods for Flow Problems
+    venue: IGA
+  - date: 2017
+    title: On Mixed Isogeometric Analysis of Poroelasticity
+    venue: OMAE
+  - date: 2017
+    title: A Step Towards Reduced Order Modelling of Flow Characterized by Wakes using POD
+    venue: EERA Deepwind
+  - date: 2016
+    title: A Mixed-Order Isogeometry Solver for Poroelasticity Problems
+    venue: WCCM
+  - date: 2015
+    title: Spline-based Mesh Generator for High Fidelity Simulation of Flow Around Turbine Blades
+    venue: EERA Deepwind
+  - date: 2015
+    title: Isogeometric Methods for CFD and FSI-Simulation of Flow Around Turbine Blades
+    venue: EERA Deepwind
+  - date: 2014
+    title: Spline-Based Mesh Generator for Wind Turbine Blades
+    venue: NSCM
+
+references:
+  sources:
+    - zotero.bib
+  citations:
+    - Fonn2025lsp
+    - Keilegavlen2024adt
+    - Keilegavlen2023pada
+    - Bekele2022mmi
+    - Tsiolakis2021rom
+    - Halvorsen_Weare2021act
+    - Johannessen2020sbs
+    - Siddiqui2019fvh
+    - Fonn2019fdc
+    - Tabib2017nwr
+    - Tabib2017acf
+    - Siddiqui2017oib
+    - Fonn2017ast
+    - Bekele2017omi
+    - Fuchs2016wmi
+    - vanOpstal2015imf
+    - Fonn2015sbm
+    - Fonn2015hca
+    - Fonn2013ais
+    - Fonn2009cmo
